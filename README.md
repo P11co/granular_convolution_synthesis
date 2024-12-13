@@ -8,6 +8,10 @@
 
 ### 2. Running the script
 - [ ] python granular_convolution_synthesis.py
+- [ ] Open the link in your browser
+- [ ] Import two audio files and adjust sliders and submit
+- [ ] Generated audio can be played and downloaded
+Note: Audio generation takes time (depends on the length of your audio as well as sampling rate & your device); for reference, an audio clip of 3-minutes (sr=44,100) may take up to a minute computation time.
 
 ## Credits
 ### Ideas and motivation: 
@@ -19,3 +23,8 @@
 - [Basics of GS](https://cmtext.indiana.edu/synthesis/chapter4_granular.php)
 
 - [Josh Stovall's blog post of granular synthesis and interviews of original paper](https://joshstovall.com/writing/granular-synthesis/)
+
+## Further ideas for improvement
+- [ ] Chained convolution effects
+- [ ] Real time sliders that loops (i.e. faster implementation of convolution)
+- [ ] Better UI
