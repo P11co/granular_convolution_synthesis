@@ -1,5 +1,7 @@
 # GCS: Granular Convolution Synthesis
 
+## [Read about how it works](https://github.com/P11co/granular_convolution_synthesis/blob/main/introduction_to_gcs.pdf)
+
 ## Try GCS out
 ### 1. Installation
 - [ ] conda create --name gcs python=3.12
@@ -19,7 +21,7 @@ Note: Audio generation takes time (depends on the length of your audio as well a
 
 -- Thank you Professor Cella for giving me ideas and helping me explore more of this concept.
 
-### Granular synthesis:
+### Details on Granular synthesis:
 - [Basics of GS](https://cmtext.indiana.edu/synthesis/chapter4_granular.php)
 
 - [Josh Stovall's blog post of granular synthesis and interviews of original paper](https://joshstovall.com/writing/granular-synthesis/)
@@ -28,3 +30,4 @@ Note: Audio generation takes time (depends on the length of your audio as well a
 - [ ] Chained convolution effects
 - [ ] Real time sliders that loops (i.e. faster implementation of convolution)
 - [ ] Better UI
+
